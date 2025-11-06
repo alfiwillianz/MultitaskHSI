@@ -1,7 +1,5 @@
 # How to Download the Data
 
-This project uses the **HyperspectralVectors** dataset hosted on Hugging Face.
-
 ## Quick Start
 
 ### Option 1: Automatic Download (Recommended)
