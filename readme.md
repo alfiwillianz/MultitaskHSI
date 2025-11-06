@@ -84,15 +84,6 @@ HSI/
 
 ## Dataset Information
 
-The dataset contains hyperspectral data with four CSV files:
-
-| File | Description |
-|------|-------------|
-| `df_field_b.csv` | Field data with blue channel |
-| `df_field_g.csv` | Field data with green channel |
-| `df_screenh_b.csv` | Screen/greenhouse data with blue channel |
-| `df_screenh_g.csv` | Screen/greenhouse data with green channel |
-
 Each file contains:
 - **Spectral bands**: Hyperspectral features (numeric columns)
 - **y**: Class labels
