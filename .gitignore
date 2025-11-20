@@ -2,5 +2,7 @@
 */HPCGrad/
 */Sum/
 */Sum73/
+*/Class/
 
 *.csv
+.vscode/
